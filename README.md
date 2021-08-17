@@ -12,3 +12,5 @@ Credit card system built using Vanilla Javascript, HTML, CSS.
 # How to Run 
 
 Clone the repository and run index.html. 
+
+You can view the webpage here https://vigilant-torvalds-154177.netlify.app
